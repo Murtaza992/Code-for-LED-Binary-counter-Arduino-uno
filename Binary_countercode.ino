@@ -19,90 +19,90 @@ digitalWrite(pin2,LOW);
 digitalWrite(pin3,LOW);  
 digitalWrite(pin4,LOW);
 digitalWrite(pin5,LOW);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,HIGH);
 digitalWrite(pin3,LOW);
 digitalWrite(pin4,LOW);
 digitalWrite(pin5,LOW);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,LOW);
 digitalWrite(pin3,HIGH);
 digitalWrite(pin4,LOW);
 digitalWrite(pin5,LOW);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,LOW);
 digitalWrite(pin3,LOW);
 digitalWrite(pin4,HIGH);
 digitalWrite(pin5,LOW);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,HIGH);
 digitalWrite(pin3,LOW);
 digitalWrite(pin4,HIGH);
 digitalWrite(pin5,LOW);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,LOW);
 digitalWrite(pin3,HIGH);
 digitalWrite(pin4,HIGH);
 digitalWrite(pin5,LOW);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,HIGH);
 digitalWrite(pin3,HIGH);
 digitalWrite(pin4,HIGH);
 digitalWrite(pin5,LOW);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,LOW);
 digitalWrite(pin3,LOW);
 digitalWrite(pin4,LOW);
 digitalWrite(pin5,HIGH);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,HIGH);
 digitalWrite(pin3,LOW);
 digitalWrite(pin4,LOW);
 digitalWrite(pin5,HIGH);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,LOW);
 digitalWrite(pin3,HIGH);
 digitalWrite(pin4,LOW);
 digitalWrite(pin5,HIGH);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,HIGH);
 digitalWrite(pin3,HIGH);
 digitalWrite(pin4,LOW);
 digitalWrite(pin5,HIGH);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,LOW);
 digitalWrite(pin3,LOW);
 digitalWrite(pin4,HIGH);
 digitalWrite(pin5,HIGH);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,HIGH);
 digitalWrite(pin3,LOW);
 digitalWrite(pin4,HIGH);
 digitalWrite(pin5,HIGH);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,LOW);
 digitalWrite(pin3,HIGH);
 digitalWrite(pin4,HIGH);
 digitalWrite(pin5,HIGH);
-delay(750);
+delay(900);
 
 digitalWrite(pin2,HIGH);
 digitalWrite(pin3,HIGH);
 digitalWrite(pin4,HIGH);
 digitalWrite(pin5,HIGH);
-delay(750);
+delay(900);
 
 }
